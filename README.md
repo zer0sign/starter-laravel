@@ -9,11 +9,13 @@
 
 ini Adalah Templat Starter-pack yang dibuat oleh hasan pada september 2023, yang digunakan untuk kebutuhan pengembangan web yang sering dibutuhkun pada umumnya, ada beberapa plugin yang ada dalam template ini, antara lain.
 
-Laravel 8
-SB Admin 2
-Clockwork
-Basic Auth
-Role Management
-Users Management
-Activity Log
-Sweet Alert
+<li>
+    <ol>Laravel 8</ol>
+    <ol>sb admin 2</ol>
+    <ol>clockwork</ol>
+    <ol>basic auth</ol>
+    <ol>role management</ol>
+    <ol>user management</ol>
+    <ol>activity log</ol>
+    <ol>sweer alert</ol>
+</li>
